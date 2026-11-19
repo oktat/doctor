@@ -4,8 +4,8 @@ Páciensek nyilvántartása.
 
 ## Végpontok
 
-|  Végpont  | Metódus | Auth | CRUD |
-|-|-|-|-|
+| Végpont | Metódus | Auth | CRUD |
+| - | - | - | - |
 | /api/patients | GET | nem | Create |
 | /api/patient?id={id} | GET | nem | Create |
 | /api/newpatient | POST | igen | Create |
